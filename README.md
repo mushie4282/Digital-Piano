@@ -1,5 +1,6 @@
 # Digital Piano
 ## CECS 447 Project 1
+The main file is project1P2.c
 
 ## Purpose
 - program ARM Cortex-M4 Launchpad
